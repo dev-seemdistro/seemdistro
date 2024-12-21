@@ -748,7 +748,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - seemdistro
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    seemdistro is open to independent artists, labels, and managers looking for
+    an easy and transparent way to distribute music globally.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
