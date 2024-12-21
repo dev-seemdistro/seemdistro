@@ -1,27 +1,14 @@
 {
     "logo": {
-        "url": "/images/IMG_0733.PNG",
-        "altText": "seemdistro logo",
+        "type": "ImageBlock",
+        "url": "/images/hero2.svg",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
         "styles": {
             "self": {
-                "margin": [
-                    "mr-96",
-                    "mt-0",
-                    "ml-96",
-                    "mb-0"
-                ],
-                "borderRadius": "none",
-                "padding": [
-                    "pl-0",
-                    "pt-0",
-                    "pb-0",
-                    "pr-0"
-                ],
-                "borderWidth": 0,
-                "borderStyle": "none"
+                "borderRadius": "medium"
             }
-        },
-        "type": "ImageBlock"
+        }
     },
     "primaryLinks": [
         {
