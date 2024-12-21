@@ -5,10 +5,10 @@
         "styles": {
             "self": {
                 "margin": [
-                    "mr-56",
-                    "mt-56",
-                    "ml-56",
-                    "mb-56"
+                    "mr-0",
+                    "mt-0",
+                    "ml-0",
+                    "mb-0"
                 ],
                 "borderRadius": "none",
                 "padding": [
