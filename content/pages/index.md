@@ -753,6 +753,6 @@ seo:
     an easy and transparent way to distribute music globally.
   socialImage: /images/IMG_0688.JPG
   type: Seo
-  addTitleSuffix: false
+  addTitleSuffix: true
 type: PageLayout
 ---
