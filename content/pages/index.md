@@ -33,7 +33,9 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/Brown & Beige Aesthetic Trendy Torn Paper Photo Collage Portrait
+        2.PNG
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
