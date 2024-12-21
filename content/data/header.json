@@ -10,7 +10,8 @@
                 "borderRadius": "xx-small",
                 "padding": [
                     "pl-0"
-                ]
+                ],
+                "borderWidth": 4
             }
         },
         "type": "ImageBlock"
