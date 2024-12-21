@@ -751,7 +751,7 @@ seo:
   metaDescription: >-
     seemdistro is open to independent artists, labels, and managers looking for
     an easy and transparent way to distribute music globally.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/IMG_0688.JPG
   type: Seo
   addTitleSuffix: false
 type: PageLayout
