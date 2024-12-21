@@ -7,7 +7,7 @@ sections:
       text: Empower Your Sound
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       <div style="text-align: left">Seem Distro is open to independent artists,
       labels, and managers looking for an easy and transparent way to distribute
